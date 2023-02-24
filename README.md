@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there!
 
-I´m Miguel Guardia,hard working and effective Web Developer with 1 year of expertise. Fluent in English, astute and deadline-driven. Strong understanding of JavaScript ecosystem and excellent eye for visual aesthetics paired with insight into data and backend functionality.
+I´m Miguel Guardia, hard working and effective Web Developer with 1 year of expertise. Fluent in English, astute and deadline-driven. Strong understanding of JavaScript ecosystem and excellent eye for visual aesthetics paired with insight into data and backend functionality.
 
 ## 
 
@@ -16,10 +16,10 @@ I´m Miguel Guardia,hard working and effective Web Developer with 1 year of expe
   <img align="center" alt="miguel-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="miguel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="miguel-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="right" alt="miguel-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="miguel-pic" height="250" src="https://cdn.discordapp.com/attachments/1048231289091792896/1067169582235799563/75.png">
 </div>
 
-  ##
+ ##
  
  #### Social
  
