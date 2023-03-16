@@ -7,7 +7,7 @@ Full Stack Developer
 --------------------------------------
 
 Who I am? 👨‍💻 <br/>
-Hi I'm MIguel, in my previous position I used my knowledge in software development to mentor and lead projects in different dynamics and thus enhance the growth of students. On the other hand, I use my experience creating content to build and manage the online community and manage the identity and branding of companies. 
+Hi I'm MIguel,  
 
 What makes me stand out? 🙎‍♂️ <br/>
 My great communication and teamwork skills make me an asset to any organization. I am motivated by the desire to have a positive impact and contribute to the success of the company.
