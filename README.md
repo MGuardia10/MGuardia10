@@ -1,29 +1,39 @@
-### Hi there!
+<!-- [![Miguel Guardia, I'm Software Developer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20Software%20Developer&title=Miguel%20Guardia)](https://pimp-my-readme.webapp.io) -->
 
-I´m Miguel Guardia, hard working and effective Web Developer with 1 year of expertise. Fluent in English, astute and deadline-driven. Strong understanding of JavaScript ecosystem and excellent eye for visual aesthetics paired with insight into data and backend functionality.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=24&pause=1000&color=F7F7F7&width=435&lines=Hey+there%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%2CI'm+Miguel+Guardia)](https://git.io/typing-svg)
+==============================
 
-## 
+Full Stack Developer
+--------------------------------------
 
-#### Tech Stack
+Who I am? 👨‍💻 <br/>
+Hi I'm MIguel, in my previous position I used my knowledge in software development to mentor and lead projects in different dynamics and thus enhance the growth of students. On the other hand, I use my experience creating content to build and manage the online community and manage the identity and branding of companies. 
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="miguel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="miguel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="miguel-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="miguel-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="miguel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="miguel-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="right" alt="miguel-pic" height="250" src="https://cdn.discordapp.com/attachments/1048231289091792896/1067169582235799563/75.png">
-</div>
+What makes me stand out? 🙎‍♂️ <br/>
+My great communication and teamwork skills make me an asset to any organization. I am motivated by the desire to have a positive impact and contribute to the success of the company.
 
- ##
- 
- #### Social
- 
-<div> 
-   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:mike.guardia0309@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+*   🖥️  See my portfolio at [Portfolio]()
+*   ✉️  You can contact me at [mike.guardia0309@gmail.com](mailto:mike.guardia0309@gmail.com)
+*   🚀  I'm currently working on [E-Commerce](https://github.com/fabioalcocer/e-commerce-x)
+*   🧠  I'm learning Redux Toolkit, E2E, GitHub Actions
+
+<!-- <p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p> -->
+
+[comment]: <> (<p align="center"><img width=50% src="https://res.cloudinary.com/daobmfotr/image/upload/v1659550519/my%20videos/bear_gqsizq.gif"></p>)
+
+# Skills
+
+## Markup Languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,materialui&perline=4)](https://skillicons.dev)
+
+## Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=javascript,ts&perline=4)](https://skillicons.dev)
+
+## Frameworks
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,nextjs&perline=4)](https://skillicons.dev)
+
+## Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&perline=5)](https://skillicons.dev)
+
+## IDEs and Tools
+[![My Skills](https://skillicons.dev/icons?i=vite,git,github,visualstudio,vscode,docker&perline=3)](https://skillicons.dev)
