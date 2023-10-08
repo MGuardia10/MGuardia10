@@ -1,6 +1,6 @@
 <!-- [![Miguel Guardia, I'm Software Developer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20Software%20Developer&title=Miguel%20Guardia)](https://pimp-my-readme.webapp.io) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=24&pause=1000&color=F7F7F7&width=435&lines=Hey+there%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%2CI'm+Miguel+Guardia)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=24&pause=1000&color=F7F7F7&width=435&lines=Hey+there%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%2CI'm+Miguel+Guardia)](https://git.io/typing-svg)
 ==============================
 
 Full Stack Developer
@@ -15,11 +15,11 @@ My great communication and teamwork skills make me an asset to any organization.
 *   🖥️  See my portfolio at [Portfolio]()
 *   ✉️  You can contact me at [mike.guardia0309@gmail.com](mailto:mike.guardia0309@gmail.com)
 *   🚀  I'm currently working on [E-Commerce](https://github.com/fabioalcocer/e-commerce-x)
-*   🧠  I'm learning Redux Toolkit, E2E, GitHub Actions
+*   🧠  I'm learning Redux Toolkit, E2E, GitHub Actions-->
 
 <!-- <p align="center"><img width=50% src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif"></p> -->
 
-[comment]: <> (<p align="center"><img width=50% src="https://res.cloudinary.com/daobmfotr/image/upload/v1659550519/my%20videos/bear_gqsizq.gif"></p>)
+<!--[comment]: <> (<p align="center"><img width=50% src="https://res.cloudinary.com/daobmfotr/image/upload/v1659550519/my%20videos/bear_gqsizq.gif"></p>)
 
 # Skills
 
@@ -37,3 +37,4 @@ My great communication and teamwork skills make me an asset to any organization.
 
 ## IDEs and Tools
 [![My Skills](https://skillicons.dev/icons?i=vite,git,github,visualstudio,vscode,docker&perline=3)](https://skillicons.dev)
+-->
