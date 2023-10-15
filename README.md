@@ -1,25 +1,48 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hi%20there,%20I%27m%20Miguel!%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
+# Miguel Guardia
+
+### 🤓 About me
+
+<!--Since I was born, there has always been a computer at home. That's why I've **spent my life playing around with tech stuff**. When the Internet reached my home, I started to investigate how websites worked. Years later, I **founded a startup, where I started to see technology from a business perspective**. Thanks to MOOCs, but mainly thanks to [**42 Madrid**](https://www.42madrid.com/), I've learnt not only about numerous specific technologies but also the **fundaments of software development** with low level languages such as C and C++.
+-->
+
+### Skills
+#### 🖥 Main languages
+
+![C](https://img.shields.io/badge/C-a?style=for-the-badge&logo=C&color=grey)
+![Javascrpt](https://img.shields.io/badge/Javascript-a?style=for-the-badge&logo=javascript&color=grey)
+![Typescript](https://img.shields.io/badge/typescript-a?style=for-the-badge&logo=typescript&color=grey)
+<!--![C++](https://img.shields.io/badge/C++-a?style=for-the-badge&logo=cplusplus&color=grey)-->
+
+#### 📘 Libraries and frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&color=grey)
+![Node](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&color=grey)
+![Express](https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&color=grey)
+![Express](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwindcss&color=grey)
+
+<!--Node.js, React, Bootstrap.-->
+
+#### 🛠 Other tools
+APIs de Salesforce, Hubspot, Wordpress. Integromat/Make, Zapier.
 
 ## Connect with me:
 
 <!--[![Twitter](https://img.shields.io/badge/Twitter-20232A?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/galisteo02)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=107ab0)](https://www.linkedin.com/in/miguel-guardia-sanchez/)
 [![Mail](https://img.shields.io/badge/Mail-20232A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mike.guardia0309@gmail.com)
-[<img src="https://user-images.githubusercontent.com/29986345/135771930-b0e5cf15-3719-4934-9bca-4a5d3b35850f.png">](mailto:mike.guardia0309@gmail.com)
 
-## Languages and Tools:
+<!--## Languages and Tools:
 
 ![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=A9B9CB)
-<!--![C++](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=5E97D0)-->
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C++](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=5E97D0)
 ![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933) 
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F1502F)
 ![Visual Studio Code](https://img.shields.io/badge/vscode-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=0485d1)
 
 ---
+-->
 
 [![MGuardia10's github stats](https://github-readme-stats.vercel.app/api?username=MGuardia10&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) 
-[![MGuardia10's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGuardia10&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![MGuardia10's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGuardia10&layout=compact&theme=github_dark&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
