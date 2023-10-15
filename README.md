@@ -35,7 +35,10 @@ Since I was born, there has always been a computer at home. That's why I've **sp
 ![VIM](https://img.shields.io/badge/VIM-20232A?style=for-the-badge&logo=vim&color=grey)
 
 
-<!--[![Twitter](https://img.shields.io/badge/Twitter-20232A?style=for-the-badge&logo=twitter&logoColor=1DA1F2)](https://twitter.com/username)-->
 ## Stats
-[![MGuardia10's github stats](https://github-readme-stats.vercel.app/api?username=MGuardia10&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
-[![MGuardia10's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGuardia10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<a width="100%"> 
+    <a href="https://github.com/MGuardia10"><img alt="Miguel Guardia's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MGuardia10&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&card_width=300" height="200px"/></a>
+    <a href="https://github.com/MGuardia10"><img alt="Miguel Guardia's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MGuardia10&langs_count=8&layout=compact&theme=vision-friendly-dark&card_width=350" height="200px"/></a>
+    <br/>
+</a>
