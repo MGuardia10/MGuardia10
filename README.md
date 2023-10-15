@@ -38,7 +38,7 @@ Since I was born, there has always been a computer at home. That's why I've **sp
 ## Stats
 
 <a width="100%"> 
-    <a href="https://github.com/MGuardia10"><img alt="Miguel Guardia's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MGuardia10&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&card_width=300" height="200px"/></a>
-    <a href="https://github.com/MGuardia10"><img alt="Miguel Guardia's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MGuardia10&langs_count=8&layout=compact&theme=vision-friendly-dark&card_width=350" height="200px"/></a>
+    <a href="https://github.com/MGuardia10"><img alt="Miguel Guardia's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=MGuardia10&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&card_width=300" height="180px"/></a>
+    <a href="https://github.com/MGuardia10"><img alt="Miguel Guardia's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=MGuardia10&langs_count=8&layout=compact&theme=vision-friendly-dark&card_width=350" height="180px"/></a>
     <br/>
 </a>
