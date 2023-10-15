@@ -19,7 +19,7 @@
 ---
 
 [![MGuardia10's github stats](https://github-readme-stats.vercel.app/api?username=MGuardia10&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) 
-[![Mguardia10's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGuardia&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![MGuardia10's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGuardia10&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
