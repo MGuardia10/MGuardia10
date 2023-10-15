@@ -2,7 +2,7 @@
 
 ## About me
 
-Since I was born, there has always been a computer at home. That's why I've **spent my life playing around with tech stuff**. When the Internet reached my home, I started to investigate how websites worked. Years later, I **founded a startup, where I started to see technology from a business perspective**. Thanks to MOOCs, but mainly thanks to [**42 Madrid**](https://www.42madrid.com/), I've learnt not only about numerous specific technologies but also the **fundaments of software development** with low level languages such as C and C++.
+My name is Miguel, I'm a software developer in constant learning and with a solid passion for technology and programming. I started programming self-taught through online courses and certifications. Currently, I am carrying out personal projects and completing my studies at [**42 Madrid**](https://www.42madrid.com/), a higher education institution where I've learnt not only about numerous specific technologies but also the **fundaments of software development** with low level languages such as C and C++.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=107ab0)](https://www.linkedin.com/in/miguel-guardia-sanchez/)
 [![Mail](https://img.shields.io/badge/Mail-20232A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mike.guardia0309@gmail.com)
