@@ -11,9 +11,8 @@ My name is Miguel, I'm a software developer in constant learning and with a soli
 #### 🖥 Main languages
 
 ![C](https://img.shields.io/badge/C-a?style=for-the-badge&logo=C&color=grey)
+![C++](https://img.shields.io/badge/C++-a?style=for-the-badge&logo=cplusplus&color=grey)
 ![Javascript](https://img.shields.io/badge/Javascript-a?style=for-the-badge&logo=javascript&color=grey)
-![Typescript](https://img.shields.io/badge/typescript-a?style=for-the-badge&logo=typescript&color=grey)
-<!--![C++](https://img.shields.io/badge/C++-a?style=for-the-badge&logo=cplusplus&color=grey)-->
 
 #### 📘 Libraries and frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&color=grey)
