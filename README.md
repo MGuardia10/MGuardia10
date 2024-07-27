@@ -6,6 +6,7 @@ My name is Miguel, I'm a software developer in constant learning and with a soli
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=107ab0)](https://www.linkedin.com/in/miguel-guardia-sanchez/)
 [![Mail](https://img.shields.io/badge/Mail-20232A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mike.guardia0309@gmail.com)
+[![42 Intra](https://img.shields.io/badge/Intra-20232A?style=for-the-badge&logo=42&logoColor=107ab0)](https://profile.intra.42.fr/users/mguardia)
 
 ## Skills
 #### 🖥 Main languages
