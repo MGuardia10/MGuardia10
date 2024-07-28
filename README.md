@@ -27,8 +27,7 @@ My name is Miguel, I'm a software developer in constant learning and with a soli
 #### 🌐 Infrastructure
 <!--and cloud-->
 ![Linux](https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux&color=grey)
-![MacOS](https://img.shields.io/badge/MACOS-20232A?style=for-the-badge&logo=macos&color=grey)
-<!-- ![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&color=grey) -->
+![MacOS](https://img.shields.io/badge/MACOS-20232A?style=for-the-badge&logo=apple&color=grey)
 
 
 #### 🛠 Other tools
@@ -36,6 +35,7 @@ My name is Miguel, I'm a software developer in constant learning and with a soli
 ![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&color=grey)
 ![VSCode](https://img.shields.io/badge/VSCode-20232A?style=for-the-badge&logo=visualstudiocode&color=grey)
 ![VIM](https://img.shields.io/badge/VIM-20232A?style=for-the-badge&logo=vim&color=grey)
+<!-- ![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&color=grey) -->
 
 
 ## Stats
