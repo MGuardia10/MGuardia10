@@ -1,5 +1,3 @@
-# Miguel Guardia
-
 ## About me
 
 My name is Miguel, I'm a software developer in constant learning and with a solid passion for technology and programming. I started programming self-taught through online courses and certifications. Currently, I am carrying out personal projects and completing my studies at [**42 Madrid**](https://www.42madrid.com/), a higher education institution where I've learnt not only about numerous specific technologies but also the **fundaments of software development** with low level languages such as C and C++.
