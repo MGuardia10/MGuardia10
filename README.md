@@ -14,27 +14,20 @@ My name is Miguel, I'm a software developer in constant learning and with a soli
 ![Javascript](https://img.shields.io/badge/Javascript-a?style=for-the-badge&logo=javascript&color=grey)
 ![Bash](https://img.shields.io/badge/Bash-a?style=for-the-badge&logo=GNUBash&color=grey)
 
+#### 🌐 Infrastructure and Cloud
+
+![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&color=grey)
+![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&color=grey)
+![Linux](https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux&color=grey)
+![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&color=grey)
+<!--![GCP](https://img.shields.io/badge/Google%20Cloud-20232A?style=for-the-badge&logo=googlecloud&color=grey)-->
+
 #### 📘 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&color=grey)
 ![Node](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&color=grey)
 ![Express](https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&color=grey)
 ![Tailwindcss](https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwindcss&color=grey)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&color=grey)
-![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&color=grey)
-
-#### 🌐 Infrastructure
-<!--and cloud-->
-![Linux](https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux&color=grey)
-![MacOS](https://img.shields.io/badge/MACOS-20232A?style=for-the-badge&logo=apple&color=grey)
-
-
-#### 🛠 Other tools
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&color=grey)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&color=grey)
-![VSCode](https://img.shields.io/badge/VSCode-20232A?style=for-the-badge&logo=visualstudiocode&color=grey)
-![VIM](https://img.shields.io/badge/VIM-20232A?style=for-the-badge&logo=vim&color=grey)
-<!-- ![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&color=grey) -->
-
 
 ## Stats
 
