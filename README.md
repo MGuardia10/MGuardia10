@@ -20,7 +20,7 @@ My name is Miguel, I'm a software developer in constant learning and with a soli
 ![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&color=grey)
 ![Linux](https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux&color=grey)
 ![Docker](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&color=grey)
-<!--![GCP](https://img.shields.io/badge/Google%20Cloud-20232A?style=for-the-badge&logo=googlecloud&color=grey)-->
+![GCP](https://img.shields.io/badge/Google%20Cloud-20232A?style=for-the-badge&logo=googlecloud&color=grey)
 
 #### 📘 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&color=grey)
