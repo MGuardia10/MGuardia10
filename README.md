@@ -1,6 +1,6 @@
 ### 👤 About me
 
-My name is Miguel, I'm a software developer in constant learning and with a solid passion for technology and programming. Currently, I am completing my studies at [42 School](https://www.42network.org/), a project-based learning institution focused on software engineering. Alongside developing strong programming fundamentals with low-level languages like C/C++, I have started my journey in cybersecurity, with a particular interest in offensive security.
+Cybersecurity Automation Engineer at Telefónica Tech. I am completing my studies at [42 School](https://www.42network.org/), a project-based learning institution focused on software engineering. Alongside developing strong programming fundamentals with low-level languages like C/C++, I have started my journey in cloud, with a particular interest in DevOps practices.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=107ab0)](https://www.linkedin.com/in/miguel-guardia-sanchez/)
 [![Mail](https://img.shields.io/badge/Mail-20232A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mike.guardia0309@gmail.com)
@@ -12,6 +12,7 @@ My name is Miguel, I'm a software developer in constant learning and with a soli
 ![C++](https://img.shields.io/badge/C++-a?style=for-the-badge&logo=cplusplus&color=grey)
 ![Python](https://img.shields.io/badge/Python-a?style=for-the-badge&logo=python&color=grey)
 ![Javascript](https://img.shields.io/badge/Javascript-a?style=for-the-badge&logo=javascript&color=grey)
+![Typescript](https://img.shields.io/badge/Typescript-a?style=for-the-badge&logo=typescript&color=grey)
 ![Bash](https://img.shields.io/badge/Bash-a?style=for-the-badge&logo=GNUBash&color=grey)
 
 ### 📊 Stats
