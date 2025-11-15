@@ -1,6 +1,6 @@
 ### 👤 About me
 
-Cybersecurity Automation Engineer at Telefónica Tech. I am completing my studies at [42 School](https://www.42network.org/), a project-based learning institution focused on software engineering. Alongside developing strong programming fundamentals with low-level languages like C/C++, I have started my journey in cloud, with a particular interest in DevOps practices.
+Data Platform Engineer at Fever. I completed my software engineering studies at [42 School](https://www.42network.org/), a project-based learning institution where I built strong fundamentals in C/C++ and systems programming. Currently, I’m focusing on cloud technologies, infrastructure, and DevOps practices, strengthening my expertise in data platforms and modern engineering workflows.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin&logoColor=107ab0)](https://www.linkedin.com/in/miguel-guardia-sanchez/)
 [![Mail](https://img.shields.io/badge/Mail-20232A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:mike.guardia0309@gmail.com)
